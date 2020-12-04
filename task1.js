@@ -27,7 +27,7 @@ function myFunction() {
                 result += "seven ";
                 break;
             case "8":
-                result += "right ";
+                result += "eight ";
                 break;
             case "9":
                 result += "nine ";
